@@ -1,0 +1,12 @@
+E:\Desarrollos\Veterinarias\Entities\bin\Debug\net5.0\Entities.deps.json
+E:\Desarrollos\Veterinarias\Entities\bin\Debug\net5.0\Entities.dll
+E:\Desarrollos\Veterinarias\Entities\bin\Debug\net5.0\ref\Entities.dll
+E:\Desarrollos\Veterinarias\Entities\bin\Debug\net5.0\Entities.pdb
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\Entities.dll
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\ref\Entities.dll
+E:\Desarrollos\Veterinarias\Entities\obj\Debug\net5.0\Entities.pdb
